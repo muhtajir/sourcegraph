@@ -17,7 +17,6 @@ The [Sourcegraph extension API](https://unpkg.com/sourcegraph/dist/docs/index.ht
 - [Local development](local_development.md)
 - [Publishing an extension](publishing.md)
 - [Debugging an extension](debugging.md)
-<<<<<<< HEAD
 - [Activation](activation.md)
 - [Builtin commands](builtin_commands.md)
 - [Sample extensions (`sourcegraph-extension-samples`)](https://github.com/sourcegraph/sourcegraph-extension-samples)
@@ -25,8 +24,6 @@ The [Sourcegraph extension API](https://unpkg.com/sourcegraph/dist/docs/index.ht
 - [UX style guide](ux_style_guide.md)
 - [Context key expressions](context_key_expressions.md)
 - [Testing extensions](testing_extensions.md)
-=======
->>>>>>> c1cfa5c38b... draft, still WIP
 
 ## Tutorials
 - [Hello world](tutorials/hello_world.md)
